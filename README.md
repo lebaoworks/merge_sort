@@ -16,7 +16,7 @@ lists.c: Clean code, each longest non-decreasing contiguous subsequence is a chi
 
 lists_step.c: Step by step
 
-# Tiếng viêt:
+# Tiếng Việt:
 Hệ điều hành chạy thử: linux
 
 Biên dịch: gcc -o merge <tên_file>.c
